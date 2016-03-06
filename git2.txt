@@ -1,3 +1,5 @@
 Second file is part of GIT as well
 
 I just want to add more text to this file in particular
+
+more updates
